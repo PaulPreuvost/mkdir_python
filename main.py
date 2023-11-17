@@ -42,6 +42,9 @@ def createProjectStructure(user_path: str, project_name: str) -> None:
 
     if not os.path.exists(user_folder_path):
         os.makedirs(user_folder_path)
+        index_file_path : str = os.path.join(user_folder_path, "index.html")
+        with open(index_file_path, "w"):
+            pass
 
         sub_folders: List[str] = ['script', 'style', 'src']
         for sub_folder in sub_folders:
