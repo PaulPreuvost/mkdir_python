@@ -4,3 +4,12 @@ Petit script Python qui permet de créer une architecture de fichiers basique po
 Librairies utilisées :
 - os
 - platform
+
+Structure des fichiers : 
+
+Nom du projet 
+  - style
+  - script
+  - src
+      - images
+      - font
