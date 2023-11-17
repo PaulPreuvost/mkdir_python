@@ -7,7 +7,7 @@ Librairies utilisées :
 
 Structure des fichiers : 
 
-Nom du projet 
+- Nom du projet 
   - index.html
   - style
   - script
