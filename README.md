@@ -8,6 +8,7 @@ Librairies utilisées :
 Structure des fichiers : 
 
 Nom du projet 
+  - index.html
   - style
   - script
   - src
