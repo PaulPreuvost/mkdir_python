@@ -1,16 +1,39 @@
 # mkdir_python
-Petit script Python qui permet de créer une architecture de fichiers basique pour des projets web (HTML/CSS/JavaScript). Codé entièrement à la main, utilisation de ChatGPT-3 pour traduire les instructions en anglais et vérifier l'orthographe.
+Project File Structure Generator
 
-Librairies utilisées :
-- os
-- platform
+Overview
 
-Structure des fichiers : 
+    This Python script is designed to create a basic file structure for web projects (HTML/CSS/JavaScript).
 
-- Nom du projet 
-  - index.html
-  - style
-  - script
-  - src
-      - images
-      - font
+
+Dependencies
+
+    - os
+    - platform
+
+
+File Structure
+
+    Project_Name
+    │   index.html
+    │
+    ├───style
+    │
+    └───script
+    │
+    └───src
+        ├───images
+        └───font
+    
+
+How to Use
+
+    Clone this repository or download the script file.
+    Run the Python script ('python3 main.py').
+    Follow the prompts to input the project name and confirm the file structure.
+    Once completed, the file structure will be generated in the directory you choose.
+
+
+Contributors
+
+    PREUVOST Paul - Creator
