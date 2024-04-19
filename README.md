@@ -7,6 +7,10 @@ Overview
 This Python script is designed to create a basic file structure for web projects (HTML/CSS/JavaScript).
 
 
+Technologies Used
+
+    Python
+
 
 Dependencies
 
