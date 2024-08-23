@@ -21,7 +21,7 @@ Dependencies
 File Structure
 
     Project_Name
-    │   index.html
+    index.html
     │
     ├───style
     │
